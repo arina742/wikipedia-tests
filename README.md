@@ -1,6 +1,6 @@
 # Установка
 Клонировать репозиторий:
-git clone https://github.com/arina742/wikipedia-tests/tree/master.git
+git clone https://github.com/arina742/wikipedia-tests.git
 cd your-repo
 
 # Все тесты
